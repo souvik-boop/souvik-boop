@@ -1,4 +1,4 @@
-### Souvik Mazumder
+2/3/2026### Souvik Mazumder
 
 I'm a software engineer working on automation, productivity tools, and experimenting with AI agents. I enjoy building tools that make life easier and automating repetitive tasks.
 
